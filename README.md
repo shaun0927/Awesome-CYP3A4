@@ -1,7 +1,7 @@
 # Awesome-P450  
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-🔥 **Boost up AI 2025 – CYP3A4 Inhibition Prediction** 경진대회와 CYP450-AI 연구를 위한 논문·데이터·코드·튜토리얼 큐레이션.
+🔥 **Boost up AI 2025 – CYP3A4 Inhibition Prediction** 경진대회를 위한 논문·데이터 큐레이션.
 
 <p align="center">
   <img src="123.jpg" width="65%">
