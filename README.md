@@ -1,4 +1,4 @@
-# Awesome-P450  
+# Awesome-CYP3A4  
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 🔥 **Boost up AI 2025 – CYP3A4 Inhibition Prediction** 경진대회를 위한 논문·데이터 큐레이션.
